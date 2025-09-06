@@ -1,0 +1,7 @@
+2025-09-05 22:15:18,953 - fix_numpy_system_wide - INFO - Iniciando correção do NumPy em todo o sistema...
+2025-09-05 22:15:18,953 - fix_numpy_system_wide - INFO - Instalando NumPy versão compatível (1.24.3)...
+2025-09-05 22:15:55,500 - fix_numpy_system_wide - INFO - NumPy 1.24.3 instalado com sucesso.
+2025-09-05 22:15:55,509 - fix_numpy_system_wide - INFO - Arquivo flask_server.py modificado com sucesso.
+2025-09-05 22:15:55,511 - fix_numpy_system_wide - INFO - Arquivo plankton_ai.py já está corretamente modificado.
+2025-09-05 22:15:55,513 - fix_numpy_system_wide - INFO - Método preprocess_image já está corretamente modificado.
+2025-09-05 22:15:55,513 - fix_numpy_system_wide - INFO - Correção do NumPy em todo o sistema concluída com sucesso.

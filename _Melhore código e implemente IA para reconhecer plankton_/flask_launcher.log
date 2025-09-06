@@ -1,0 +1,131 @@
+2025-09-05 21:39:54,008 - flask_launcher - INFO - Iniciando o servidor Flask...
+2025-09-05 21:39:54,549 - flask_launcher - INFO - Servidor Flask iniciado com PID: 13016
+2025-09-05 21:39:54,550 - flask_launcher - INFO - Logs disponíveis em: c:\Users\super\OneDrive\Área de Trabalho\SistemaDePlankton\_Melhore código e implemente IA para reconhecer plankton_\logs
+2025-09-05 21:40:51,903 - flask_launcher - INFO - Iniciando o servidor Flask...
+2025-09-05 21:40:51,976 - flask_launcher - INFO - Servidor Flask iniciado com PID: 19584
+2025-09-05 21:40:51,977 - flask_launcher - INFO - Logs disponíveis em: c:\Users\super\OneDrive\Área de Trabalho\SistemaDePlankton\_Melhore código e implemente IA para reconhecer plankton_\logs
+2025-09-05 21:40:53,979 - flask_launcher - ERROR - Servidor Flask falhou ao iniciar. Código de retorno: 1
+2025-09-05 21:52:10,916 - flask_launcher - INFO - Iniciando o servidor Flask...
+2025-09-05 21:52:11,377 - flask_launcher - INFO - Servidor Flask iniciado com PID: 24904
+2025-09-05 21:52:11,377 - flask_launcher - INFO - Logs disponíveis em: C:\Users\super\OneDrive\Área de Trabalho\SistemaDePlankton\_Melhore código e implemente IA para reconhecer plankton_\logs
+2025-09-05 21:52:13,487 - flask_launcher - INFO - Servidor Flask iniciado com sucesso.
+2025-09-05 21:52:13,488 - flask_launcher - INFO - Script de inicialização do servidor Flask finalizado. O servidor está rodando em segundo plano.
+2025-09-05 21:52:13,488 - flask_launcher - INFO - Acesse http://localhost:5000 para usar a API de reconhecimento de plâncton.
+2025-09-05 22:02:15,702 - flask_launcher - INFO - Iniciando o servidor Flask...
+2025-09-05 22:02:15,761 - flask_launcher - INFO - Servidor Flask iniciado com PID: 25100
+2025-09-05 22:02:15,761 - flask_launcher - INFO - Logs disponíveis em: C:\Users\super\OneDrive\Área de Trabalho\SistemaDePlankton\_Melhore código e implemente IA para reconhecer plankton_\logs
+2025-09-05 22:02:17,762 - flask_launcher - INFO - Servidor Flask iniciado com sucesso.
+2025-09-05 22:02:17,763 - flask_launcher - INFO - Script de inicialização do servidor Flask finalizado. O servidor está rodando em segundo plano.
+2025-09-05 22:02:17,763 - flask_launcher - INFO - Acesse http://localhost:5000 para usar a API de reconhecimento de plâncton.
+2025-09-05 22:03:26,675 - flask_launcher - INFO - Iniciando o servidor Flask...
+2025-09-05 22:03:26,842 - flask_launcher - INFO - Servidor Flask iniciado com PID: 7992
+2025-09-05 22:03:26,842 - flask_launcher - INFO - Logs disponíveis em: C:\Users\super\OneDrive\Área de Trabalho\SistemaDePlankton\_Melhore código e implemente IA para reconhecer plankton_\logs
+2025-09-05 22:03:28,843 - flask_launcher - INFO - Servidor Flask iniciado com sucesso.
+2025-09-05 22:03:28,843 - flask_launcher - INFO - Script de inicialização do servidor Flask finalizado. O servidor está rodando em segundo plano.
+2025-09-05 22:03:28,844 - flask_launcher - INFO - Acesse http://localhost:5000 para usar a API de reconhecimento de plâncton.
+2025-09-05 22:06:14,926 - flask_launcher - INFO - Iniciando o servidor Flask...
+2025-09-05 22:06:14,972 - flask_launcher - INFO - Servidor Flask iniciado com PID: 24296
+2025-09-05 22:06:14,972 - flask_launcher - INFO - Logs disponíveis em: C:\Users\super\OneDrive\Área de Trabalho\SistemaDePlankton\_Melhore código e implemente IA para reconhecer plankton_\logs
+2025-09-05 22:06:16,973 - flask_launcher - INFO - Servidor Flask iniciado com sucesso.
+2025-09-05 22:06:16,974 - flask_launcher - INFO - Script de inicialização do servidor Flask finalizado. O servidor está rodando em segundo plano.
+2025-09-05 22:06:16,975 - flask_launcher - INFO - Acesse http://localhost:5000 para usar a API de reconhecimento de plâncton.
+2025-09-05 22:09:07,139 - flask_launcher - INFO - Iniciando o servidor Flask...
+2025-09-05 22:09:07,237 - flask_launcher - INFO - Servidor Flask iniciado com PID: 7332
+2025-09-05 22:09:07,238 - flask_launcher - INFO - Logs disponíveis em: C:\Users\super\OneDrive\Área de Trabalho\SistemaDePlankton\_Melhore código e implemente IA para reconhecer plankton_\logs
+2025-09-05 22:09:09,239 - flask_launcher - INFO - Servidor Flask iniciado com sucesso.
+2025-09-05 22:09:09,240 - flask_launcher - INFO - Script de inicialização do servidor Flask finalizado. O servidor está rodando em segundo plano.
+2025-09-05 22:09:09,240 - flask_launcher - INFO - Acesse http://localhost:5000 para usar a API de reconhecimento de plâncton.
+2025-09-05 22:11:10,971 - flask_launcher - INFO - Iniciando o servidor Flask...
+2025-09-05 22:11:11,017 - flask_launcher - INFO - Servidor Flask iniciado com PID: 27828
+2025-09-05 22:11:11,017 - flask_launcher - INFO - Logs disponíveis em: C:\Users\super\OneDrive\Área de Trabalho\SistemaDePlankton\_Melhore código e implemente IA para reconhecer plankton_\logs
+2025-09-05 22:11:13,018 - flask_launcher - INFO - Servidor Flask iniciado com sucesso.
+2025-09-05 22:11:13,019 - flask_launcher - INFO - Script de inicialização do servidor Flask finalizado. O servidor está rodando em segundo plano.
+2025-09-05 22:11:13,019 - flask_launcher - INFO - Acesse http://localhost:5000 para usar a API de reconhecimento de plâncton.
+2025-09-05 22:12:41,562 - flask_launcher - INFO - Iniciando o servidor Flask...
+2025-09-05 22:12:41,660 - flask_launcher - INFO - Servidor Flask iniciado com PID: 7784
+2025-09-05 22:12:41,660 - flask_launcher - INFO - Logs disponíveis em: C:\Users\super\OneDrive\Área de Trabalho\SistemaDePlankton\_Melhore código e implemente IA para reconhecer plankton_\logs
+2025-09-05 22:12:43,665 - flask_launcher - INFO - Servidor Flask iniciado com sucesso.
+2025-09-05 22:12:43,666 - flask_launcher - INFO - Script de inicialização do servidor Flask finalizado. O servidor está rodando em segundo plano.
+2025-09-05 22:12:43,666 - flask_launcher - INFO - Acesse http://localhost:5000 para usar a API de reconhecimento de plâncton.
+2025-09-05 22:16:49,406 - flask_launcher - INFO - Iniciando o servidor Flask...
+2025-09-05 22:16:49,489 - flask_launcher - INFO - Servidor Flask iniciado com PID: 12700
+2025-09-05 22:16:49,490 - flask_launcher - INFO - Logs disponíveis em: C:\Users\super\OneDrive\Área de Trabalho\SistemaDePlankton\_Melhore código e implemente IA para reconhecer plankton_\logs
+2025-09-05 22:16:51,492 - flask_launcher - INFO - Servidor Flask iniciado com sucesso.
+2025-09-05 22:16:51,492 - flask_launcher - INFO - Script de inicialização do servidor Flask finalizado. O servidor está rodando em segundo plano.
+2025-09-05 22:16:51,493 - flask_launcher - INFO - Acesse http://localhost:5000 para usar a API de reconhecimento de plâncton.
+2025-09-05 22:29:20,801 - flask_launcher - INFO - Iniciando o servidor Flask...
+2025-09-05 22:29:21,476 - flask_launcher - INFO - Servidor Flask iniciado com PID: 23728
+2025-09-05 22:29:21,476 - flask_launcher - INFO - Logs disponíveis em: C:\Users\super\OneDrive\Área de Trabalho\SistemaDePlankton\_Melhore código e implemente IA para reconhecer plankton_\logs
+2025-09-05 22:29:23,479 - flask_launcher - INFO - Servidor Flask iniciado com sucesso.
+2025-09-05 22:29:23,480 - flask_launcher - INFO - Script de inicialização do servidor Flask finalizado. O servidor está rodando em segundo plano.
+2025-09-05 22:29:23,481 - flask_launcher - INFO - Acesse http://localhost:5000 para usar a API de reconhecimento de plâncton.
+2025-09-05 22:31:55,985 - flask_launcher - INFO - Iniciando o servidor Flask...
+2025-09-05 22:31:56,080 - flask_launcher - INFO - Servidor Flask iniciado com PID: 1528
+2025-09-05 22:31:56,084 - flask_launcher - INFO - Logs disponíveis em: C:\Users\super\OneDrive\Área de Trabalho\SistemaDePlankton\_Melhore código e implemente IA para reconhecer plankton_\logs
+2025-09-05 22:31:58,086 - flask_launcher - ERROR - Servidor Flask falhou ao iniciar. Código de retorno: 1
+2025-09-05 22:31:58,134 - flask_launcher - ERROR - Falha ao iniciar o servidor Flask.
+2025-09-05 22:32:35,793 - flask_launcher - INFO - Iniciando o servidor Flask...
+2025-09-05 22:32:35,837 - flask_launcher - INFO - Servidor Flask iniciado com PID: 17960
+2025-09-05 22:32:35,838 - flask_launcher - INFO - Logs disponíveis em: C:\Users\super\OneDrive\Área de Trabalho\SistemaDePlankton\_Melhore código e implemente IA para reconhecer plankton_\logs
+2025-09-05 22:32:37,839 - flask_launcher - ERROR - Servidor Flask falhou ao iniciar. Código de retorno: 1
+2025-09-05 22:32:37,840 - flask_launcher - ERROR - Falha ao iniciar o servidor Flask.
+2025-09-05 22:33:09,497 - flask_launcher - INFO - Iniciando o servidor Flask...
+2025-09-05 22:33:09,562 - flask_launcher - INFO - Servidor Flask iniciado com PID: 20360
+2025-09-05 22:33:09,563 - flask_launcher - INFO - Logs disponíveis em: C:\Users\super\OneDrive\Área de Trabalho\SistemaDePlankton\_Melhore código e implemente IA para reconhecer plankton_\logs
+2025-09-05 22:33:11,563 - flask_launcher - ERROR - Servidor Flask falhou ao iniciar. Código de retorno: 1
+2025-09-05 22:33:11,564 - flask_launcher - ERROR - Falha ao iniciar o servidor Flask.
+2025-09-05 22:33:48,888 - flask_launcher - INFO - Iniciando o servidor Flask...
+2025-09-05 22:33:48,948 - flask_launcher - INFO - Servidor Flask iniciado com PID: 13804
+2025-09-05 22:33:48,949 - flask_launcher - INFO - Logs disponíveis em: C:\Users\super\OneDrive\Área de Trabalho\SistemaDePlankton\_Melhore código e implemente IA para reconhecer plankton_\logs
+2025-09-05 22:33:50,950 - flask_launcher - ERROR - Servidor Flask falhou ao iniciar. Código de retorno: 1
+2025-09-05 22:33:50,950 - flask_launcher - ERROR - Falha ao iniciar o servidor Flask.
+2025-09-05 22:36:50,096 - flask_launcher - INFO - Iniciando o servidor Flask...
+2025-09-05 22:36:50,162 - flask_launcher - INFO - Servidor Flask iniciado com PID: 24172
+2025-09-05 22:36:50,163 - flask_launcher - INFO - Logs disponíveis em: C:\Users\super\OneDrive\Área de Trabalho\SistemaDePlankton\_Melhore código e implemente IA para reconhecer plankton_\logs
+2025-09-05 22:36:52,164 - flask_launcher - ERROR - Servidor Flask falhou ao iniciar. Código de retorno: 1
+2025-09-05 22:36:52,166 - flask_launcher - ERROR - Falha ao iniciar o servidor Flask.
+2025-09-05 22:37:35,287 - flask_launcher - INFO - Iniciando o servidor Flask...
+2025-09-05 22:37:35,366 - flask_launcher - INFO - Servidor Flask iniciado com PID: 2352
+2025-09-05 22:37:35,367 - flask_launcher - INFO - Logs disponíveis em: C:\Users\super\OneDrive\Área de Trabalho\SistemaDePlankton\_Melhore código e implemente IA para reconhecer plankton_\logs
+2025-09-05 22:37:37,368 - flask_launcher - ERROR - Servidor Flask falhou ao iniciar. Código de retorno: 1
+2025-09-05 22:37:37,370 - flask_launcher - ERROR - Falha ao iniciar o servidor Flask.
+2025-09-05 22:38:01,527 - flask_launcher - INFO - Iniciando o servidor Flask...
+2025-09-05 22:38:01,565 - flask_launcher - INFO - Servidor Flask iniciado com PID: 7808
+2025-09-05 22:38:01,566 - flask_launcher - INFO - Logs disponíveis em: C:\Users\super\OneDrive\Área de Trabalho\SistemaDePlankton\_Melhore código e implemente IA para reconhecer plankton_\logs
+2025-09-05 22:38:03,566 - flask_launcher - ERROR - Servidor Flask falhou ao iniciar. Código de retorno: 1
+2025-09-05 22:38:03,577 - flask_launcher - ERROR - Falha ao iniciar o servidor Flask.
+2025-09-05 22:38:31,468 - flask_launcher - INFO - Iniciando o servidor Flask...
+2025-09-05 22:38:31,511 - flask_launcher - INFO - Servidor Flask iniciado com PID: 27232
+2025-09-05 22:38:31,511 - flask_launcher - INFO - Logs disponíveis em: C:\Users\super\OneDrive\Área de Trabalho\SistemaDePlankton\_Melhore código e implemente IA para reconhecer plankton_\logs
+2025-09-05 22:38:33,512 - flask_launcher - ERROR - Servidor Flask falhou ao iniciar. Código de retorno: 1
+2025-09-05 22:38:33,512 - flask_launcher - ERROR - Falha ao iniciar o servidor Flask.
+2025-09-05 22:52:30,110 - flask_launcher - INFO - Iniciando o servidor Flask...
+2025-09-05 22:52:30,200 - flask_launcher - INFO - Servidor Flask iniciado com PID: 24928
+2025-09-05 22:52:30,200 - flask_launcher - INFO - Logs disponíveis em: C:\Users\super\OneDrive\Área de Trabalho\SistemaDePlankton\_Melhore código e implemente IA para reconhecer plankton_\logs
+2025-09-05 22:52:32,201 - flask_launcher - ERROR - Servidor Flask falhou ao iniciar. Código de retorno: 1
+2025-09-05 22:52:32,203 - flask_launcher - ERROR - Falha ao iniciar o servidor Flask.
+2025-09-05 22:52:59,626 - flask_launcher - INFO - Iniciando o servidor Flask...
+2025-09-05 22:52:59,681 - flask_launcher - INFO - Servidor Flask iniciado com PID: 27912
+2025-09-05 22:52:59,681 - flask_launcher - INFO - Logs disponíveis em: C:\Users\super\OneDrive\Área de Trabalho\SistemaDePlankton\_Melhore código e implemente IA para reconhecer plankton_\logs
+2025-09-05 22:53:01,682 - flask_launcher - ERROR - Servidor Flask falhou ao iniciar. Código de retorno: 1
+2025-09-05 22:53:01,683 - flask_launcher - ERROR - Falha ao iniciar o servidor Flask.
+2025-09-05 22:56:19,820 - flask_launcher - INFO - Iniciando o servidor Flask...
+2025-09-05 22:56:19,899 - flask_launcher - INFO - Servidor Flask iniciado com PID: 5092
+2025-09-05 22:56:19,899 - flask_launcher - INFO - Logs disponíveis em: C:\Users\super\OneDrive\Área de Trabalho\SistemaDePlankton\_Melhore código e implemente IA para reconhecer plankton_\logs
+2025-09-05 22:56:21,901 - flask_launcher - ERROR - Servidor Flask falhou ao iniciar. Código de retorno: 1
+2025-09-05 22:56:21,906 - flask_launcher - ERROR - Falha ao iniciar o servidor Flask.
+2025-09-05 22:58:38,249 - flask_launcher - INFO - Iniciando o servidor Flask...
+2025-09-05 22:58:38,350 - flask_launcher - INFO - Servidor Flask iniciado com PID: 21956
+2025-09-05 22:58:38,351 - flask_launcher - INFO - Logs disponíveis em: C:\Users\super\OneDrive\Área de Trabalho\SistemaDePlankton\_Melhore código e implemente IA para reconhecer plankton_\logs
+2025-09-05 22:58:40,352 - flask_launcher - ERROR - Servidor Flask falhou ao iniciar. Código de retorno: 1
+2025-09-05 22:58:40,355 - flask_launcher - ERROR - Falha ao iniciar o servidor Flask.
+2025-09-05 22:59:49,478 - flask_launcher - INFO - Iniciando o servidor Flask...
+2025-09-05 22:59:49,544 - flask_launcher - INFO - Servidor Flask iniciado com PID: 26400
+2025-09-05 22:59:49,544 - flask_launcher - INFO - Logs disponíveis em: C:\Users\super\OneDrive\Área de Trabalho\SistemaDePlankton\_Melhore código e implemente IA para reconhecer plankton_\logs
+2025-09-05 22:59:51,545 - flask_launcher - ERROR - Servidor Flask falhou ao iniciar. Código de retorno: 1
+2025-09-05 22:59:51,546 - flask_launcher - ERROR - Falha ao iniciar o servidor Flask.
+2025-09-05 23:02:25,596 - flask_launcher - INFO - Iniciando o servidor Flask...
+2025-09-05 23:02:25,691 - flask_launcher - INFO - Servidor Flask iniciado com PID: 28544
+2025-09-05 23:02:25,692 - flask_launcher - INFO - Logs disponíveis em: C:\Users\super\OneDrive\Área de Trabalho\SistemaDePlankton\_Melhore código e implemente IA para reconhecer plankton_\logs
+2025-09-05 23:02:27,693 - flask_launcher - ERROR - Servidor Flask falhou ao iniciar. Código de retorno: 1
+2025-09-05 23:02:27,694 - flask_launcher - ERROR - Falha ao iniciar o servidor Flask.

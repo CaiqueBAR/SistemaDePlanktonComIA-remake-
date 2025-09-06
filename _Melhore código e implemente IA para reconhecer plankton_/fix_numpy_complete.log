@@ -1,0 +1,8 @@
+2025-09-05 22:31:06,287 - fix_numpy_complete - INFO - Iniciando correção completa do problema do NumPy...
+2025-09-05 22:31:06,288 - fix_numpy_complete - INFO - Reinstalando NumPy versão 1.24.3...
+2025-09-05 22:31:34,485 - fix_numpy_complete - INFO - NumPy reinstalado com sucesso.
+2025-09-05 22:31:34,491 - fix_numpy_complete - INFO - Arquivo plankton_ai.py modificado com sucesso.
+2025-09-05 22:31:34,500 - fix_numpy_complete - INFO - Arquivo flask_server.py modificado com sucesso.
+2025-09-05 22:31:34,528 - fix_numpy_complete - INFO - Método transform modificado com sucesso.
+2025-09-05 22:31:34,530 - fix_numpy_complete - INFO - Script de teste test_numpy.py criado com sucesso.
+2025-09-05 22:31:34,531 - fix_numpy_complete - INFO - Correção completa do problema do NumPy concluída.

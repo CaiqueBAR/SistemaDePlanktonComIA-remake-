@@ -1,0 +1,21 @@
+{
+    "num_classes": 10,
+    "classes": [
+        "Acantharia_protist",
+        "Appendicularian_s_shape",
+        "Appendicularian_straight",
+        "Chaetognath_non_sagitta",
+        "Chaetognath_sagitta",
+        "Copepod_calanoid",
+        "Copepod_cyclopoid_oithona",
+        "Copepod_other",
+        "Crustacean_other",
+        "Diatom_chain"
+    ],
+    "input_shape": [
+        224,
+        224
+    ],
+    "saved_date": "2025-09-05",
+    "model_type": "MobileNetV2"
+}

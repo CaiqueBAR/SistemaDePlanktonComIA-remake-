@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "C:\Users\super\OneDrive\Área de Trabalho\SistemaDePlankton\_Melhore código e implemente IA para reconhecer plankton_\flask_server.py", line 6, in <module>
+    from plankton_ai import PlanktonClassifierPyTorch  # Importa a classe PyTorch
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\super\OneDrive\Área de Trabalho\SistemaDePlankton\_Melhore código e implemente IA para reconhecer plankton_\plankton_ai.py", line 1, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'

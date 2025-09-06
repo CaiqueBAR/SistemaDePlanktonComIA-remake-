@@ -1,0 +1,258 @@
+2025-09-05 21:52:54,453 - flask_server - INFO - Classificador de plâncton inicializado com sucesso
+2025-09-05 21:52:54,502 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.170:5000
+2025-09-05 21:52:54,503 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-05 21:52:56,443 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 21:52:56] "GET /status HTTP/1.1" 200 -
+2025-09-05 21:53:01,056 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 21:53:01] "GET /classes HTTP/1.1" 200 -
+2025-09-05 21:53:03,124 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 21:53:03] "GET /status HTTP/1.1" 200 -
+2025-09-05 21:55:21,397 - flask_server - INFO - Arquivo salvo temporariamente: uploads\eb109489-19ba-4f04-9b67-9ccfe9609ab7_imagem_teste.jpg
+2025-09-05 21:55:21,433 - plankton_ai - INFO - Iniciando predição para: uploads\eb109489-19ba-4f04-9b67-9ccfe9609ab7_imagem_teste.jpg
+2025-09-05 21:55:21,465 - plankton_ai - ERROR - Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 21:55:21,470 - plankton_ai - ERROR - Falha no pré-processamento: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 21:55:21,471 - flask_server - INFO - Arquivo temporário removido: uploads\eb109489-19ba-4f04-9b67-9ccfe9609ab7_imagem_teste.jpg
+2025-09-05 21:55:21,471 - flask_server - ERROR - Erro na predição: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 21:55:21,472 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 21:55:21] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-09-05 22:02:20,078 - flask_server - INFO - Classificador de plâncton inicializado com sucesso
+2025-09-05 22:02:20,106 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.170:5000
+2025-09-05 22:02:20,106 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-05 22:03:30,007 - flask_server - INFO - Classificador de plâncton inicializado com sucesso
+2025-09-05 22:03:30,037 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.170:5000
+2025-09-05 22:03:30,037 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-05 22:05:40,690 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:05:40] "GET /status HTTP/1.1" 200 -
+2025-09-05 22:05:42,727 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:05:42] "GET /classes HTTP/1.1" 200 -
+2025-09-05 22:05:44,874 - flask_server - INFO - Arquivo salvo temporariamente: uploads\b34fca4e-8895-47e2-9f7f-a6a38fb10917_test_display_complex.png
+2025-09-05 22:05:44,888 - plankton_ai - INFO - Iniciando predição para: uploads\b34fca4e-8895-47e2-9f7f-a6a38fb10917_test_display_complex.png
+2025-09-05 22:05:44,888 - plankton_ai - INFO - Convertendo imagem de RGBA para RGB
+2025-09-05 22:05:44,908 - plankton_ai - ERROR - Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:05:44,912 - plankton_ai - ERROR - Falha no pré-processamento: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:05:44,913 - flask_server - INFO - Arquivo temporário removido: uploads\b34fca4e-8895-47e2-9f7f-a6a38fb10917_test_display_complex.png
+2025-09-05 22:05:44,913 - flask_server - ERROR - Erro na predição: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:05:44,913 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:05:44] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-09-05 22:05:46,958 - flask_server - INFO - Arquivo salvo temporariamente: uploads\2c1e879b-952a-4779-8887-e54dd9a825ce_test_display_empty_graph.png
+2025-09-05 22:05:46,961 - plankton_ai - INFO - Iniciando predição para: uploads\2c1e879b-952a-4779-8887-e54dd9a825ce_test_display_empty_graph.png
+2025-09-05 22:05:46,961 - plankton_ai - INFO - Convertendo imagem de RGBA para RGB
+2025-09-05 22:05:46,964 - plankton_ai - ERROR - Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:05:46,965 - plankton_ai - ERROR - Falha no pré-processamento: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:05:46,966 - flask_server - INFO - Arquivo temporário removido: uploads\2c1e879b-952a-4779-8887-e54dd9a825ce_test_display_empty_graph.png
+2025-09-05 22:05:46,966 - flask_server - ERROR - Erro na predição: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:05:46,966 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:05:46] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-09-05 22:05:49,021 - flask_server - INFO - Arquivo salvo temporariamente: uploads\ec89dda0-9969-44da-a232-aabb51ddd79f_test_display_house_with_colors.png
+2025-09-05 22:05:49,032 - plankton_ai - INFO - Iniciando predição para: uploads\ec89dda0-9969-44da-a232-aabb51ddd79f_test_display_house_with_colors.png
+2025-09-05 22:05:49,032 - plankton_ai - INFO - Convertendo imagem de RGBA para RGB
+2025-09-05 22:05:49,037 - plankton_ai - ERROR - Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:05:49,038 - plankton_ai - ERROR - Falha no pré-processamento: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:05:49,039 - flask_server - INFO - Arquivo temporário removido: uploads\ec89dda0-9969-44da-a232-aabb51ddd79f_test_display_house_with_colors.png
+2025-09-05 22:05:49,039 - flask_server - ERROR - Erro na predição: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:05:49,039 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:05:49] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-09-05 22:06:18,962 - flask_server - INFO - Classificador de plâncton inicializado com sucesso
+2025-09-05 22:06:18,993 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.170:5000
+2025-09-05 22:06:18,993 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-05 22:06:30,384 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:06:30] "GET /status HTTP/1.1" 200 -
+2025-09-05 22:06:32,413 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:06:32] "GET /classes HTTP/1.1" 200 -
+2025-09-05 22:06:34,466 - flask_server - INFO - Arquivo salvo temporariamente: uploads\4a8ee46f-715e-46f4-b186-fd496efc7e2d_test_display_complex.png
+2025-09-05 22:06:34,473 - plankton_ai - INFO - Iniciando predição para: uploads\4a8ee46f-715e-46f4-b186-fd496efc7e2d_test_display_complex.png
+2025-09-05 22:06:34,473 - plankton_ai - INFO - Convertendo imagem de RGBA para RGB
+2025-09-05 22:06:34,480 - plankton_ai - ERROR - Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:06:34,481 - plankton_ai - ERROR - Falha no pré-processamento: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:06:34,482 - flask_server - INFO - Arquivo temporário removido: uploads\4a8ee46f-715e-46f4-b186-fd496efc7e2d_test_display_complex.png
+2025-09-05 22:06:34,482 - flask_server - ERROR - Erro na predição: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:06:34,482 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:06:34] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-09-05 22:06:36,544 - flask_server - INFO - Arquivo salvo temporariamente: uploads\bc16bd1d-5fa4-40fe-af76-57975a7dd195_test_display_empty_graph.png
+2025-09-05 22:06:36,547 - plankton_ai - INFO - Iniciando predição para: uploads\bc16bd1d-5fa4-40fe-af76-57975a7dd195_test_display_empty_graph.png
+2025-09-05 22:06:36,547 - plankton_ai - INFO - Convertendo imagem de RGBA para RGB
+2025-09-05 22:06:36,555 - plankton_ai - ERROR - Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:06:36,557 - plankton_ai - ERROR - Falha no pré-processamento: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:06:36,558 - flask_server - INFO - Arquivo temporário removido: uploads\bc16bd1d-5fa4-40fe-af76-57975a7dd195_test_display_empty_graph.png
+2025-09-05 22:06:36,558 - flask_server - ERROR - Erro na predição: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:06:36,558 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:06:36] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-09-05 22:06:38,584 - flask_server - INFO - Arquivo salvo temporariamente: uploads\bc2b1eb7-1e59-423f-8215-63a3deb081f4_test_display_house_with_colors.png
+2025-09-05 22:06:38,591 - plankton_ai - INFO - Iniciando predição para: uploads\bc2b1eb7-1e59-423f-8215-63a3deb081f4_test_display_house_with_colors.png
+2025-09-05 22:06:38,592 - plankton_ai - INFO - Convertendo imagem de RGBA para RGB
+2025-09-05 22:06:38,596 - plankton_ai - ERROR - Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:06:38,596 - plankton_ai - ERROR - Falha no pré-processamento: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:06:38,598 - flask_server - INFO - Arquivo temporário removido: uploads\bc2b1eb7-1e59-423f-8215-63a3deb081f4_test_display_house_with_colors.png
+2025-09-05 22:06:38,598 - flask_server - ERROR - Erro na predição: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:06:38,598 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:06:38] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-09-05 22:09:15,701 - flask_server - INFO - Classificador de plâncton inicializado com sucesso
+2025-09-05 22:09:15,730 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.170:5000
+2025-09-05 22:09:15,730 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-05 22:09:21,597 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:09:21] "GET /status HTTP/1.1" 200 -
+2025-09-05 22:09:23,624 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:09:23] "GET /classes HTTP/1.1" 200 -
+2025-09-05 22:09:25,695 - flask_server - INFO - Arquivo salvo temporariamente: uploads\8dca710e-05e1-4e90-8a1f-07686983b4f0_test_display_complex.png
+2025-09-05 22:09:25,708 - plankton_ai - INFO - Iniciando predição para: uploads\8dca710e-05e1-4e90-8a1f-07686983b4f0_test_display_complex.png
+2025-09-05 22:09:25,709 - plankton_ai - INFO - Convertendo imagem de RGBA para RGB
+2025-09-05 22:09:25,721 - plankton_ai - ERROR - Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:09:25,729 - plankton_ai - ERROR - Falha no pré-processamento: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:09:25,730 - flask_server - INFO - Arquivo temporário removido: uploads\8dca710e-05e1-4e90-8a1f-07686983b4f0_test_display_complex.png
+2025-09-05 22:09:25,730 - flask_server - ERROR - Erro na predição: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:09:25,730 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:09:25] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-09-05 22:09:27,762 - flask_server - INFO - Arquivo salvo temporariamente: uploads\09195078-33a1-4f02-a44b-5d521604f121_test_display_empty_graph.png
+2025-09-05 22:09:27,764 - plankton_ai - INFO - Iniciando predição para: uploads\09195078-33a1-4f02-a44b-5d521604f121_test_display_empty_graph.png
+2025-09-05 22:09:27,765 - plankton_ai - INFO - Convertendo imagem de RGBA para RGB
+2025-09-05 22:09:27,768 - plankton_ai - ERROR - Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:09:27,769 - plankton_ai - ERROR - Falha no pré-processamento: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:09:27,770 - flask_server - INFO - Arquivo temporário removido: uploads\09195078-33a1-4f02-a44b-5d521604f121_test_display_empty_graph.png
+2025-09-05 22:09:27,770 - flask_server - ERROR - Erro na predição: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:09:27,770 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:09:27] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-09-05 22:09:29,821 - flask_server - INFO - Arquivo salvo temporariamente: uploads\cbd862e7-d9a6-428a-a3f1-36183150260d_test_display_house_with_colors.png
+2025-09-05 22:09:29,829 - plankton_ai - INFO - Iniciando predição para: uploads\cbd862e7-d9a6-428a-a3f1-36183150260d_test_display_house_with_colors.png
+2025-09-05 22:09:29,829 - plankton_ai - INFO - Convertendo imagem de RGBA para RGB
+2025-09-05 22:09:29,834 - plankton_ai - ERROR - Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:09:29,834 - plankton_ai - ERROR - Falha no pré-processamento: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:09:29,835 - flask_server - INFO - Arquivo temporário removido: uploads\cbd862e7-d9a6-428a-a3f1-36183150260d_test_display_house_with_colors.png
+2025-09-05 22:09:29,835 - flask_server - ERROR - Erro na predição: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:09:29,836 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:09:29] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-09-05 22:11:17,412 - flask_server - INFO - Classificador de plâncton inicializado com sucesso
+2025-09-05 22:11:17,444 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.170:5000
+2025-09-05 22:11:17,444 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-05 22:11:25,940 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:11:25] "GET /status HTTP/1.1" 200 -
+2025-09-05 22:11:27,977 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:11:27] "GET /classes HTTP/1.1" 200 -
+2025-09-05 22:11:30,145 - flask_server - INFO - Arquivo salvo temporariamente: uploads\621d3935-ba3e-4571-99c3-bfa18f0e4ae6_test_display_complex.png
+2025-09-05 22:11:30,155 - plankton_ai - INFO - Iniciando predição para: uploads\621d3935-ba3e-4571-99c3-bfa18f0e4ae6_test_display_complex.png
+2025-09-05 22:11:30,156 - plankton_ai - INFO - Convertendo imagem de RGBA para RGB
+2025-09-05 22:11:30,166 - plankton_ai - ERROR - Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:11:30,168 - plankton_ai - ERROR - Falha no pré-processamento: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:11:30,169 - flask_server - INFO - Arquivo temporário removido: uploads\621d3935-ba3e-4571-99c3-bfa18f0e4ae6_test_display_complex.png
+2025-09-05 22:11:30,170 - flask_server - ERROR - Erro na predição: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:11:30,170 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:11:30] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-09-05 22:11:32,200 - flask_server - INFO - Arquivo salvo temporariamente: uploads\d450a40e-a5ca-4ee7-af5b-6a606591d4d2_test_display_empty_graph.png
+2025-09-05 22:11:32,204 - plankton_ai - INFO - Iniciando predição para: uploads\d450a40e-a5ca-4ee7-af5b-6a606591d4d2_test_display_empty_graph.png
+2025-09-05 22:11:32,204 - plankton_ai - INFO - Convertendo imagem de RGBA para RGB
+2025-09-05 22:11:32,208 - plankton_ai - ERROR - Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:11:32,209 - plankton_ai - ERROR - Falha no pré-processamento: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:11:32,210 - flask_server - INFO - Arquivo temporário removido: uploads\d450a40e-a5ca-4ee7-af5b-6a606591d4d2_test_display_empty_graph.png
+2025-09-05 22:11:32,210 - flask_server - ERROR - Erro na predição: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:11:32,210 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:11:32] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-09-05 22:11:34,254 - flask_server - INFO - Arquivo salvo temporariamente: uploads\427c5b51-d582-401a-963a-d2ea736b1c33_test_display_house_with_colors.png
+2025-09-05 22:11:34,263 - plankton_ai - INFO - Iniciando predição para: uploads\427c5b51-d582-401a-963a-d2ea736b1c33_test_display_house_with_colors.png
+2025-09-05 22:11:34,263 - plankton_ai - INFO - Convertendo imagem de RGBA para RGB
+2025-09-05 22:11:34,269 - plankton_ai - ERROR - Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:11:34,269 - plankton_ai - ERROR - Falha no pré-processamento: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:11:34,270 - flask_server - INFO - Arquivo temporário removido: uploads\427c5b51-d582-401a-963a-d2ea736b1c33_test_display_house_with_colors.png
+2025-09-05 22:11:34,270 - flask_server - ERROR - Erro na predição: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:11:34,270 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:11:34] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-09-05 22:12:54,476 - flask_server - INFO - Classificador de plâncton inicializado com sucesso
+2025-09-05 22:12:54,518 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.170:5000
+2025-09-05 22:12:54,518 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-05 22:13:08,557 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:13:08] "GET /status HTTP/1.1" 200 -
+2025-09-05 22:13:10,615 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:13:10] "GET /classes HTTP/1.1" 200 -
+2025-09-05 22:13:12,794 - flask_server - INFO - Arquivo salvo temporariamente: uploads\dc46e9a8-9697-43d3-8173-6af00af3b32d_test_display_complex.png
+2025-09-05 22:13:12,814 - plankton_ai - INFO - Iniciando predição para: uploads\dc46e9a8-9697-43d3-8173-6af00af3b32d_test_display_complex.png
+2025-09-05 22:13:12,814 - plankton_ai - INFO - Convertendo imagem de RGBA para RGB
+2025-09-05 22:13:12,841 - plankton_ai - ERROR - Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:13:12,849 - plankton_ai - ERROR - Falha no pré-processamento: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:13:12,851 - flask_server - INFO - Arquivo temporário removido: uploads\dc46e9a8-9697-43d3-8173-6af00af3b32d_test_display_complex.png
+2025-09-05 22:13:12,851 - flask_server - ERROR - Erro na predição: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:13:12,851 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:13:12] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-09-05 22:13:14,876 - flask_server - INFO - Arquivo salvo temporariamente: uploads\b7448dde-b48a-474f-8196-81359269c9fb_test_display_empty_graph.png
+2025-09-05 22:13:14,878 - plankton_ai - INFO - Iniciando predição para: uploads\b7448dde-b48a-474f-8196-81359269c9fb_test_display_empty_graph.png
+2025-09-05 22:13:14,878 - plankton_ai - INFO - Convertendo imagem de RGBA para RGB
+2025-09-05 22:13:14,884 - plankton_ai - ERROR - Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:13:14,886 - plankton_ai - ERROR - Falha no pré-processamento: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:13:14,887 - flask_server - INFO - Arquivo temporário removido: uploads\b7448dde-b48a-474f-8196-81359269c9fb_test_display_empty_graph.png
+2025-09-05 22:13:14,887 - flask_server - ERROR - Erro na predição: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:13:14,888 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:13:14] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-09-05 22:13:16,937 - flask_server - INFO - Arquivo salvo temporariamente: uploads\563b94a1-7af9-4fcc-834d-9395f5c304ca_test_display_house_with_colors.png
+2025-09-05 22:13:16,949 - plankton_ai - INFO - Iniciando predição para: uploads\563b94a1-7af9-4fcc-834d-9395f5c304ca_test_display_house_with_colors.png
+2025-09-05 22:13:16,951 - plankton_ai - INFO - Convertendo imagem de RGBA para RGB
+2025-09-05 22:13:16,957 - plankton_ai - ERROR - Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:13:16,959 - plankton_ai - ERROR - Falha no pré-processamento: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:13:16,960 - flask_server - INFO - Arquivo temporário removido: uploads\563b94a1-7af9-4fcc-834d-9395f5c304ca_test_display_house_with_colors.png
+2025-09-05 22:13:16,960 - flask_server - ERROR - Erro na predição: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:13:16,961 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:13:16] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-09-05 22:16:56,991 - flask_server - INFO - Classificador de plâncton inicializado com sucesso
+2025-09-05 22:16:57,036 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.170:5000
+2025-09-05 22:16:57,036 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-05 22:17:07,755 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:17:07] "GET /status HTTP/1.1" 200 -
+2025-09-05 22:17:09,795 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:17:09] "GET /classes HTTP/1.1" 200 -
+2025-09-05 22:17:12,444 - flask_server - INFO - Arquivo salvo temporariamente: uploads\5ec94265-b0fd-420a-ab4a-67f8020f4eab_test_display_complex.png
+2025-09-05 22:17:12,858 - plankton_ai - INFO - Iniciando predição para: uploads\5ec94265-b0fd-420a-ab4a-67f8020f4eab_test_display_complex.png
+2025-09-05 22:17:12,918 - plankton_ai - INFO - Convertendo imagem de RGBA para RGB
+2025-09-05 22:17:16,746 - plankton_ai - ERROR - Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:17:16,748 - plankton_ai - ERROR - Falha no pré-processamento: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:17:16,748 - flask_server - INFO - Arquivo temporário removido: uploads\5ec94265-b0fd-420a-ab4a-67f8020f4eab_test_display_complex.png
+2025-09-05 22:17:16,749 - flask_server - ERROR - Erro na predição: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:17:16,750 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:17:16] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-09-05 22:17:18,799 - flask_server - INFO - Arquivo salvo temporariamente: uploads\c7585476-2176-447f-98d4-4eec0efd51e7_test_display_empty_graph.png
+2025-09-05 22:17:18,801 - plankton_ai - INFO - Iniciando predição para: uploads\c7585476-2176-447f-98d4-4eec0efd51e7_test_display_empty_graph.png
+2025-09-05 22:17:18,802 - plankton_ai - INFO - Convertendo imagem de RGBA para RGB
+2025-09-05 22:17:18,808 - plankton_ai - ERROR - Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:17:18,808 - plankton_ai - ERROR - Falha no pré-processamento: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:17:18,808 - flask_server - INFO - Arquivo temporário removido: uploads\c7585476-2176-447f-98d4-4eec0efd51e7_test_display_empty_graph.png
+2025-09-05 22:17:18,808 - flask_server - ERROR - Erro na predição: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:17:18,809 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:17:18] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-09-05 22:17:21,010 - flask_server - INFO - Arquivo salvo temporariamente: uploads\109136a2-c3b9-428d-90b1-7adf960acd2b_test_display_house_with_colors.png
+2025-09-05 22:17:21,059 - plankton_ai - INFO - Iniciando predição para: uploads\109136a2-c3b9-428d-90b1-7adf960acd2b_test_display_house_with_colors.png
+2025-09-05 22:17:21,060 - plankton_ai - INFO - Convertendo imagem de RGBA para RGB
+2025-09-05 22:17:21,064 - plankton_ai - ERROR - Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:17:21,065 - plankton_ai - ERROR - Falha no pré-processamento: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:17:21,065 - flask_server - INFO - Arquivo temporário removido: uploads\109136a2-c3b9-428d-90b1-7adf960acd2b_test_display_house_with_colors.png
+2025-09-05 22:17:21,065 - flask_server - ERROR - Erro na predição: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:17:21,065 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:17:21] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-09-05 22:29:49,252 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:29:49] "GET /status HTTP/1.1" 200 -
+2025-09-05 22:29:51,302 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:29:51] "GET /classes HTTP/1.1" 200 -
+2025-09-05 22:29:53,494 - flask_server - INFO - Arquivo salvo temporariamente: uploads\7bc9e085-ebd3-481e-aa15-a02990ad427b_test_display_complex.png
+2025-09-05 22:29:53,523 - plankton_ai - INFO - Iniciando predição para: uploads\7bc9e085-ebd3-481e-aa15-a02990ad427b_test_display_complex.png
+2025-09-05 22:29:53,525 - plankton_ai - INFO - Convertendo imagem de RGBA para RGB
+2025-09-05 22:29:53,581 - plankton_ai - ERROR - Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:29:53,602 - plankton_ai - ERROR - Falha no pré-processamento: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:29:53,605 - flask_server - INFO - Arquivo temporário removido: uploads\7bc9e085-ebd3-481e-aa15-a02990ad427b_test_display_complex.png
+2025-09-05 22:29:53,605 - flask_server - ERROR - Erro na predição: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:29:53,605 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:29:53] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-09-05 22:29:55,636 - flask_server - INFO - Arquivo salvo temporariamente: uploads\e82dfd5d-2dcb-4cb2-b42c-863ed2b510c3_test_display_empty_graph.png
+2025-09-05 22:29:55,638 - plankton_ai - INFO - Iniciando predição para: uploads\e82dfd5d-2dcb-4cb2-b42c-863ed2b510c3_test_display_empty_graph.png
+2025-09-05 22:29:55,639 - plankton_ai - INFO - Convertendo imagem de RGBA para RGB
+2025-09-05 22:29:55,643 - plankton_ai - ERROR - Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:29:55,645 - plankton_ai - ERROR - Falha no pré-processamento: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:29:55,646 - flask_server - INFO - Arquivo temporário removido: uploads\e82dfd5d-2dcb-4cb2-b42c-863ed2b510c3_test_display_empty_graph.png
+2025-09-05 22:29:55,646 - flask_server - ERROR - Erro na predição: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:29:55,646 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:29:55] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-09-05 22:29:57,707 - flask_server - INFO - Arquivo salvo temporariamente: uploads\9daa517b-4950-4161-a652-f2aa350250fe_test_display_house_with_colors.png
+2025-09-05 22:29:57,716 - plankton_ai - INFO - Iniciando predição para: uploads\9daa517b-4950-4161-a652-f2aa350250fe_test_display_house_with_colors.png
+2025-09-05 22:29:57,717 - plankton_ai - INFO - Convertendo imagem de RGBA para RGB
+2025-09-05 22:29:57,721 - plankton_ai - ERROR - Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:29:57,722 - plankton_ai - ERROR - Falha no pré-processamento: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:29:57,723 - flask_server - INFO - Arquivo temporário removido: uploads\9daa517b-4950-4161-a652-f2aa350250fe_test_display_house_with_colors.png
+2025-09-05 22:29:57,723 - flask_server - ERROR - Erro na predição: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 22:29:57,724 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 22:29:57] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-09-05 23:10:10,981 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 23:10:10] "GET /status HTTP/1.1" 200 -
+2025-09-05 23:10:13,129 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 23:10:13] "GET /classes HTTP/1.1" 200 -
+2025-09-05 23:10:15,181 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 23:10:15] "GET /status HTTP/1.1" 200 -
+2025-09-05 23:10:23,861 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 23:10:23] "GET /status HTTP/1.1" 200 -
+2025-09-05 23:10:39,133 - flask_server - INFO - Arquivo salvo temporariamente: uploads\59ba33f1-4656-4dd0-b2b4-76251549a7dd_imagem_teste.jpg
+2025-09-05 23:10:39,161 - plankton_ai - INFO - Iniciando predição para: uploads\59ba33f1-4656-4dd0-b2b4-76251549a7dd_imagem_teste.jpg
+2025-09-05 23:10:39,225 - plankton_ai - ERROR - Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 23:10:39,255 - plankton_ai - ERROR - Falha no pré-processamento: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 23:10:39,256 - flask_server - INFO - Arquivo temporário removido: uploads\59ba33f1-4656-4dd0-b2b4-76251549a7dd_imagem_teste.jpg
+2025-09-05 23:10:39,256 - flask_server - ERROR - Erro na predição: Erro no pré-processamento da imagem: Numpy is not available
+2025-09-05 23:10:39,258 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 23:10:39] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-09-05 23:10:44,931 - plankton_ai - INFO - Modelo PyTorch criado com sucesso!
+2025-09-05 23:10:44,931 - flask_server - INFO - Classificador de plâncton inicializado com sucesso
+2025-09-05 23:10:44,971 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.170:5000
+2025-09-05 23:10:44,971 - werkzeug - INFO - [33mPress CTRL+C to quit[0m

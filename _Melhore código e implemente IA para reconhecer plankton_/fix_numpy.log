@@ -1,0 +1,6 @@
+2025-09-05 22:08:55,922 - fix_numpy - INFO - Iniciando verificação e correção do NumPy...
+2025-09-05 22:08:59,891 - fix_numpy - INFO - NumPy está instalado. Versão: 2.2.6
+2025-09-05 22:08:59,891 - fix_numpy - INFO - NumPy está instalado. Versão: 2.2.6
+2025-09-05 22:08:59,894 - fix_numpy - INFO - Importação do NumPy reorganizada em: plankton_ai.py
+2025-09-05 22:08:59,896 - fix_numpy - WARNING - Importação do NumPy não encontrada em: flask_server.py
+2025-09-05 22:08:59,897 - fix_numpy - INFO - Processo de correção do NumPy concluído.
